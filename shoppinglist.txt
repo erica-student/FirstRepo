@@ -2,3 +2,5 @@ Bread
 Eggs
 Ice Cream
 Bananas
+Lettuce
+Ice Cream
